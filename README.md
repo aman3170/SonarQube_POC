@@ -23,7 +23,8 @@ cd sonar-scanning-examples/sonarqube-scanner-maven/
 
 ## Generate a SonarQube token:
 
-Go to My Account > Security > Generate Token in the SonarQube UI
+Go to My Account > Security > Generate Token in the SonarQube UI.
+
 Run the analysis:
 ```
 mvn clean verify sonar:sonar \
