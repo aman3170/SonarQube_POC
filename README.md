@@ -37,7 +37,12 @@ mvn clean verify sonar:sonar \
 Go to http://localhost:9000 and check the project dashboard.
 
 You should see the sample-java project with metrics like:
+Vulnerabilities
 Bugs
 Code Smells
 Security Hotspots
-Test Coverage
+
+
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/8d2450a7-c964-4874-873d-a404c33183ec" />
+
